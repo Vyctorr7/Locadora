@@ -1,0 +1,8 @@
+# Arquivos do sistema operacional e do editor
+.DS_Store
+Thumbs.db
+/vendor/
+*.log
+.vscode/
+
+link_repositorio.txt
